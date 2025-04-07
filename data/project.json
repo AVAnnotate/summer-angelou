@@ -16,7 +16,13 @@
     "authors": "Summer Arcand-Auigbelle",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [],
+    "additional_users": [
+      {
+        "login_name": "absempere",
+        "avatar_url": "https://avatars.githubusercontent.com/u/38816173?v=4",
+        "admin": false
+      }
+    ],
     "tags": {
       "tagGroups": [
         {
@@ -128,7 +134,7 @@
       ]
     },
     "created_at": "2025-04-06T17:49:59.655Z",
-    "updated_at": "2025-04-07T19:22:22.860Z",
+    "updated_at": "2025-04-07T19:32:32.598Z",
     "generate_pages_site": true
   },
   "is_private": false
